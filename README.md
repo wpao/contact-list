@@ -67,3 +67,11 @@ export default tseslint.config([
   },
 ])
 ```
+```sh
+git status
+git add .
+git commit -am 'v1.0.0'
+pnpm run build
+pnpm run deploy
+
+```
