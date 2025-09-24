@@ -20,6 +20,7 @@ const contacts: Contact[] = [
     { id: 9, name: "Iwik", phone: "+62 813-3763-5413", email: "iwik@mail.com" },
     { id: 10, name: "Ito", phone: "+62 853-3904-0083", email: "ito@mail.com" },
     { id: 11, name: "indriii", phone: "+62 853-3323-0367", email: "indriii@mail.com" },
+    { id: 12, name: "vina", phone: "+62 819-5965-0524", email: "vina@mail.com" },
 ];
 
 export default function ContactList() {
